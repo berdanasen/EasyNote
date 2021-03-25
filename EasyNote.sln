@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNote", "EasyNote\EasyNote.csproj", "{FA2B28E1-6770-4608-AA13-032EFF3A4FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2B28E1-6770-4608-AA13-032EFF3A4FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2B28E1-6770-4608-AA13-032EFF3A4FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2B28E1-6770-4608-AA13-032EFF3A4FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2B28E1-6770-4608-AA13-032EFF3A4FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EC0DC59-4843-44A4-B3A0-F23EC97285F3}
+	EndGlobalSection
+EndGlobal
