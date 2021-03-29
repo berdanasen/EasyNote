@@ -7,13 +7,13 @@ namespace EasyNote.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class AuthorRequired : IMigrationMetadata
+    public sealed partial class Ilk : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(AuthorRequired));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(Ilk));
         
         string IMigrationMetadata.Id
         {
-            get { return "202103260705106_AuthorRequired"; }
+            get { return "202103290903428_Ilk"; }
         }
         
         string IMigrationMetadata.Source
